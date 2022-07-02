@@ -8,4 +8,4 @@ For now you still need to do evrything yourself ocnce I figure out how to make t
 # Installatie instructies NL
 Nadat je de code hebt gedowload zet je de nl_nl map in %apdata%\majicjungle\sapiens\localizarions, ja het is echt zo simpel.  
 voor als je niet weet hoe je daar komt: druk op de 'Windows knop'+'r' en type (of kopiër)  %apdata%\majicjungle\sapiens\localizarions in de teksbalk en klik OK.  
-Je moet het nu nog zelf doen, maar dodra ik leer hoe ik het een mod kan maken, gaat het allenmaal weer het wakkelijker
+Je moet het nu nog zelf doen, maar dodra ik leer hoe ik het een mod kan maken, gaat het allenmaal weer het wakkelijker.
