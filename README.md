@@ -1,5 +1,5 @@
 # Sapiens but Dutch
-A Dutch localization for the game 'Sapiens'.
+A Dutch localization for the game 'Sapiens'.  
 as far as I know this only works on Windows.
 # How to install EN
 After downloading the code, grab the nl_nl folder and put it in %apdata%\majicjungle\sapiens\localizarions, that's it.  
