@@ -1,4 +1,4 @@
-format:  
+# format:  
 # {catogory} {line start}-{line end}  
   {lines that still need translating}  --these are the lines you will have to add yourself  
   {if you did something in the middle just add the other sections a line down}  
@@ -14,7 +14,7 @@ example:
   done  
   
 # buildables 21-153  
-  33-153
+  51-153
 # craftables 156-299  
   
 # actions 302-377  
