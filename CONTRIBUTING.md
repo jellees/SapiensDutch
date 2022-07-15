@@ -7,3 +7,4 @@ While contributing there are 2 thing you need to do
   1. Do **not** use google translate unless you can compliment it with actual Dutch knoweledge.
   2. **Stay consistent**, look at similar words and make sure they're all translated the same.
   3. **Log your progress**, we need to know what you've done and what we still need to do.
+  4. Try to not translate sentences word for word but interpret the sentence.
