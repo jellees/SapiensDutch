@@ -2292,14 +2292,14 @@ localizations.values = {
     constructable_classification_research_action = researchName,
 
     --evolution
-    evolution_dryAction = "Dries",
-    evolution_rotAction = "Rots",
-    evolution_despawnAction = "Gone",
-    evolution_time_verySoon = "very soon",
-    evolution_time_fewHours = "in a few hours",
-    evolution_time_fewDays = "in a few days",
-    evolution_time_nextYear = "next year",
-    evolution_time_fewYears = "in a few years",
+    evolution_dryAction = "Droogt",
+    evolution_rotAction = "Verrot",
+    evolution_despawnAction = "Weg",
+    evolution_time_verySoon = "heel snel",
+    evolution_time_fewHours = "over een paar uur",
+    evolution_time_fewDays = "over een paar dagen",
+    evolution_time_nextYear = "volgend jaar",
+    evolution_time_fewYears = "over een paar jaar",
     evolution_timeFunc = function(values)
         return values.actionName .. " " .. values.time
     end,
